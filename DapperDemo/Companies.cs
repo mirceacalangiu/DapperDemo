@@ -10,7 +10,7 @@ namespace DapperDemo
     { 
         public int ID { get; set; }
         public string Name { get; set; }
-        public int OwnerID { get; set; }  
+        public int OwnerID { get; set; }  //test
     
     }
 }
